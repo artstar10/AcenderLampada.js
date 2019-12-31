@@ -1,0 +1,8 @@
+body {
+    background: url(http://flickholdr.com/1600/1200/sunset) no-repeat center top fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
