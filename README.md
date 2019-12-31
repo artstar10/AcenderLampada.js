@@ -1,2 +1,2 @@
 # c
-Primeiros passos com a linguagem C
+Primeiros passos com a linguagem JavaScript
